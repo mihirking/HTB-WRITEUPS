@@ -47,9 +47,11 @@ ls
 # Output: flag.txt
 
 cat flag.txt
+
 Flag: b40abdfe11b5a0346083f25603780360
 
 5. Summary & Key Takeaways
+
 Service Enumeration: Port 23 is a red flag in modern security; it should almost always be replaced by SSH (Port 22).
 
 Insecure Defaults: The root account had no password set, allowing instant administrative access.
